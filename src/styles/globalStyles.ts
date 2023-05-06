@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
     }
     body {
         margin: 0;
-        padding: 0;
+        padding: 10px;
         box-sizing: border-box;
     }
 `;
